@@ -15,9 +15,9 @@ I'm a passionate game developer and software engineer, currently 21 years old, a
 ## How to Reach Me 📬
 I'm always open to collaboration, questions, or just a friendly chat. Feel free to connect with me through:
 
-- Itch.io: [[LignityLabs](https://lignitylabs.itch.io/)] 📧
+- Itch.io: [[LignityLabs](https://lignitylabs.itch.io/)] 🎮
 - Twitter: [[@SrIrumaK](https://twitter.com/SrIrumaK)] 🐦
-- Discord: [[Iruma#6658](https://discord.com/channels/@Iruma#6658)]
+- Discord: [[Iruma#6658](https://discord.com/channels/@Iruma#6658)] 💬
 
 ## Let's Create Together! 🤝
 I'm constantly exploring new horizons in the world of technology and pushing the boundaries of what's possible 🌠. If you share my passion for development and innovation, let's connect and build something amazing together! 🚀🌟
