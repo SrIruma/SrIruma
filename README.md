@@ -17,7 +17,7 @@ I'm a passionate game developer and software engineer, currently 21 years old, a
 ## How to Reach Me 📬
 I'm always open to collaboration, questions, or just a friendly chat. Feel free to connect with me through:
 
-- Email: [[@Soon..]sr.iruma@lignitylabs.com] 📧
+- Itch.io: [[LignityLabs](https://lignitylabs.itch.io/)] 📧
 - Twitter: [[@SrIrumaK](https://twitter.com/SrIrumaK)] 🐦
 
 ## Let's Create Together! 🤝
