@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Sr. IrumaK 🎮🚀
-
 ## About Me 🧑‍💻
 I'm a passionate game developer and software engineer, currently 21 years old, and the founder of Lignity Labs 🎮🔬, a dynamic video game company. My journey in the world of technology has been a thrilling adventure, where I've honed my skills in a variety of programming languages and platforms to create captivating games 🕹️ and versatile applications 📱.
 
