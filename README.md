@@ -1,3 +1,5 @@
+# 
+
 # 👋 Hi, I'm Irumachii!
 
 I'm a **Computer Systems Engineering** student nearing graduation. I’m passionate about **game and application development** with skills in:
@@ -26,5 +28,5 @@ I aim to **start my own company** called **Kozmio Interactive**, focused on soft
 
 ---
 <div align="center">
-    <img src="https://media1.tenor.com/m/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="Banner" width="100%" />
+    <img src="https://media1.tenor.com/m/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="Banner" width="50%" height="50%"/>
 </div>
