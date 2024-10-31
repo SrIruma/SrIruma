@@ -9,7 +9,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y estoy a punto de
 [![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/) 
 [![C](https://img.shields.io/badge/-C-A8B400?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
-[![Java](https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Para los Sistemas Operativos:
 
