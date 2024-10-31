@@ -21,9 +21,8 @@ En mi tiempo libre, disfruto practicar **baloncesto** y **voleibol**, actividade
 
 ## 🚀 Objetivo
 
-Mi objetivo a largo plazo es **fundar mi propia empresa** llamada **Kozmio Interactive**, enfocada en el desarrollo de software y videojuegos. Estoy decidido a crear productos innovadores que impacten a la comunidad y ofrezcan experiencias únicas a los usuarios. Siempre estoy buscando aprender, crecer y mejorar en mi carrera profesional.
+Mi objetivo a largo plazo es **fundar mi propia empresa** llamada **Kozmio Interactive**, enfocada en el desarrollo de software y videojuegos. Estoy decidido a crear productos innovadores que impacten a la comunidad y ofrezcan experiencias únicas a los usuarios. Siempre estoy buscando aprender, crecer y mejorar en mi carrera profesional. Si estás interesado en colaborar en proyectos emocionantes o simplemente deseas charlar, ¡no dudes en contactarme!
 
-Si estás interesado en colaborar en proyectos emocionantes o simplemente deseas charlar, ¡no dudes en contactarme!
 ---
 
 
