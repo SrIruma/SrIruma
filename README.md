@@ -11,6 +11,11 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y estoy a punto de
 [![C](https://img.shields.io/badge/-C-A8B400?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
 [![Java](https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
+Para los Sistemas Operativos:
+
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows) 
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
 
 ---
 
