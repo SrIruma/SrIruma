@@ -2,16 +2,9 @@
 
 Soy estudiante de **Ingeniería en Sistemas Computacionales** y estoy a punto de graduarme. Tengo una gran pasión por el **desarrollo de videojuegos** y **aplicaciones**, y he adquirido habilidades en varios lenguajes de programación, incluyendo:
 
-<div>
-    [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML) 
-    [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS) 
-    [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)  
-    [![Kotlin](https://img.shields.io/badge/-Kotlin-0077C8?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org) 
-    [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
-    [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/) 
-    [![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
-    [![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-</div>
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML) [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript) [![Kotlin](https://img.shields.io/badge/-Kotlin-0077C8?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org) [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/) 
+[![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+
 
 ---
 
