@@ -25,7 +25,6 @@ In my free time, I enjoy **basketball**, **volleyball**, and watching **anime** 
 I aim to **start my own company** called **Kozmio Interactive**, focused on software and game development. Always eager to learn and improve!
 
 ---
-
-![Animated GIF](https://media1.tenor.com/m/uYP_Nkq8VPsAAAAd/coding-hello-world.gif)
-
-Feel free to connect if you have interesting projects or just want to chat!
+<div align="center">
+    <img src="https://your_banner_image_link_here.jpg" alt="Banner" width="100%" />
+</div>
