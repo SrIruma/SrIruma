@@ -12,6 +12,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y estoy a punto de
     [![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
     [![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 </div>
+
 ---
 
 
