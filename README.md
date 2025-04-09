@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Irumachii!
+# 👋 ¡Hola, soy Rintachii!
 
 Soy estudiante de **Ingeniería en Sistemas Computacionales** y estoy a punto de graduarme. Tengo una gran pasión por el **desarrollo de videojuegos** y **aplicaciones**, y he adquirido habilidades en varios lenguajes de programación, incluyendo:
 
