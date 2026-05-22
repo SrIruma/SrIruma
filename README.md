@@ -46,6 +46,7 @@ Mi objetivo a largo plazo es **fundar mi propia empresa** llamada **Kozmio Inter
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriruma&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
+
 ---
 
 <div align="center">
