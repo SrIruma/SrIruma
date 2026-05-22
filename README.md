@@ -39,7 +39,14 @@ En mi tiempo libre, disfruto practicar **baloncesto** y **voleibol**, actividade
 Mi objetivo a largo plazo es **fundar mi propia empresa** llamada **Kozmio Interactive**, enfocada en el desarrollo de software y videojuegos. Estoy decidido a crear productos innovadores que impacten a la comunidad y ofrezcan experiencias únicas a los usuarios. Siempre estoy buscando aprender, crecer y mejorar en mi carrera profesional. Si estás interesado en colaborar en proyectos emocionantes o simplemente deseas charlar, ¡no dudes en contactarme!
 
 ---
+<div align="center">
 
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriruma&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriruma&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</div>
+---
 
 <div align="center">
     <img src="https://media1.tenor.com/m/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="Image 1" width="30%" height="30%" style="display:inline-block; margin: 5px;" />
