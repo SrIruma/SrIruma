@@ -47,11 +47,7 @@ Mi objetivo a largo plazo es **fundar mi propia empresa** llamada **Kozmio Inter
 
 </div>
 
----
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sriruma&style=for-the-badge&color=2563eb"/>
-</div>
----
+--- 
 
 <div align="center">
     <img src="https://media1.tenor.com/m/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="Image 1" width="30%" height="30%" style="display:inline-block; margin: 5px;" />
