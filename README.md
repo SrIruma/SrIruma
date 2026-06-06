@@ -1,57 +1,150 @@
-# 👋 ¡Hola, soy Rintachii!
-
-Soy estudiante de **Ingeniería en Sistemas Computacionales** y estoy a punto de graduarme. Tengo una gran pasión por el **desarrollo de videojuegos** y **aplicaciones**, y he adquirido habilidades en varios lenguajes de programación, incluyendo:
-
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML) 
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-0077C8?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org) 
-[![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-Para los Sistemas Operativos:
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows) 
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-
-## 🎮 Intereses
-
-Mi interés principal radica en el **desarrollo de videojuegos**, donde busco crear experiencias inmersivas y emocionantes. También me encanta aprender nuevas tecnologías y herramientas que me ayuden a mejorar mis habilidades y llevar mis proyectos al siguiente nivel.
-
----
-
-## 🏀 Pasatiempos
-
-En mi tiempo libre, disfruto practicar **baloncesto** y **voleibol**, actividades que me permiten mantenerme activo y en forma. Además, soy un gran aficionado al **anime** y me encanta ver películas, especialmente de **acción**, **terror**, y **comedia**. Estas actividades no solo me entretienen, sino que también me inspiran en mi trabajo creativo.
-
----
-
-## 🚀 Objetivo
-
-Mi objetivo a largo plazo es **fundar mi propia empresa** llamada **Kozmio Interactive**, enfocada en el desarrollo de software y videojuegos. Estoy decidido a crear productos innovadores que impacten a la comunidad y ofrezcan experiencias únicas a los usuarios. Siempre estoy buscando aprender, crecer y mejorar en mi carrera profesional. Si estás interesado en colaborar en proyectos emocionantes o simplemente deseas charlar, ¡no dudes en contactarme!
-
----
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sriruma&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:111827,100:2563eb&text=Carlos%20Espinoza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sriruma&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+### Software Engineer | Systems • Tools • Multiplatform Development
+
+<br>
+
+<img src="https://img.shields.io/badge/Systems_Engineering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multiplatform_Development-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer_Tools-111827?style=for-the-badge"/>
 
 </div>
 
---- 
+---
+
+# 🧠 About Me
+
+Final-year Computer Systems Engineering student focused on building real-world software systems.
+
+I work across desktop, web, mobile, backend, and developer tooling with a system-oriented mindset.
+
+Currently building **Marshall**, an open-source developer ecosystem for workflows and sandbox environments.
+
+---
+
+# ⚙️ Core Skills
+
+## 💻 Languages
+<p>
+<img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Web
+<p>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+---
+
+## 🖥️ Desktop
+<p>
+<img src="https://img.shields.io/badge/WinForms-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WPF-111827?style=for-the-badge"/>
+</p>
+
+---
+
+## 📱 Mobile
+<p>
+<img src="https://img.shields.io/badge/Android-111827?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin%20Android-111827?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+## 🧰 Tools & Systems
+<p>
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/CMake-111827?style=for-the-badge&logo=cmake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🧰 Marshall
+
+Open-source developer ecosystem tool
+
+- Lightweight sandbox environments  
+- Workflow orchestration  
+- Developer tooling unification  
+- Extensible architecture  
+
+> Status: Early Development (v0.1.0)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=sriruma&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://streak-stats.demolab.com/?user=sriruma&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sriruma&theme=dark&hide_border=false&include_all_commits=false&layout=compact" />
+</p>
+
+---
+
+# 🤝 Support
+
+<p align="center">
+
+<a href="https://paypal.me/srirumachi">
+<img src="https://img.shields.io/badge/Support%20Project-111827?style=for-the-badge&logo=paypal&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🌍 Languages
+
+<p align="center">
+Spanish • English
+</p>
+
+---
 
 <div align="center">
-    <img src="https://media1.tenor.com/m/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" alt="Image 1" width="30%" height="30%" style="display:inline-block; margin: 5px;" />
-    <img src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.webp?cid=790b7611b9ybmm0uq72vbcbb58d3tsog4xgg3uwrzc3kpk8q&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Image 2" width="30%" height="30%" style="display:inline-block; margin: 5px;" />
-    <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="Image 3" width="30%" height="30%" style="display:inline-block; margin: 5px;" />
-</div>
+
+⚡ Building systems that connect software, not just applications.
+
 </div>
