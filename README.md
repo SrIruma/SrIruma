@@ -45,8 +45,12 @@ tools that other developers enjoy using.
 
 ## Support
 
-If any of my work is useful to you, you can support me via
-[PayPal](https://paypal.me/srirumachi).
+[![Donate](https://img.shields.io/badge/Donate-BTC%20%7C%20USDT-e6007a?style=for-the-badge)](donate.md)
+
+My projects are free and open-source. If any of them save you time, consider a
+small donation in BTC or USDT (TRC-20) — see [donate.md](donate.md) for the
+addresses and network details. Donations are optional and buy nothing; they
+just keep the work going.
 
 ## Languages
 
